@@ -1,0 +1,22 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p98-pr/index.html.git"
+  },
+  "author": "Praneeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p98-pr/index.html/issues"
+  },
+  "homepage": "https://github.com/p98-pr/index.html#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
